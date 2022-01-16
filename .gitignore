@@ -1,0 +1,3 @@
+*.txt
+*.log
+/home/python_git/stats/*
